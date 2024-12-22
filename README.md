@@ -1,3 +1,3 @@
 this is demo repo's read me file
 <br>
-author name - varunn
+author name - varun malviya
